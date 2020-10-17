@@ -2,7 +2,7 @@
 /shelf/
 /workspace.xml
 # Datasource local storage ignored files
-/../../../../../:\GitHub\lectures\10oct\.idea/dataSources/
+/../../../../:\GitHub\lectures\.idea/dataSources/
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
